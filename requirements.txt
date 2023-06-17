@@ -1,0 +1,8 @@
+altgraph==0.17.3
+pygame==2.3.0
+pygame-menu==4.4.2
+pygame-widgets==1.1.1
+pyinstaller==5.11.0
+pyinstaller-hooks-contrib==2023.3
+pyperclip==1.8.2
+typing_extensions==4.5.0
